@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    img: "",
+    img: "./components/portafolioPhoto/CryptoCheck.jpg",
     link: "http://lama.dev",
   },
   {

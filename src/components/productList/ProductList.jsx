@@ -1,6 +1,7 @@
 import "./productList.css";
 import Product from "../product/Product";
 import { products } from "../../data";
+import photo1 from "./portafolioPhoto/CryptoCheck.jpg";
 
 const ProductList = () => {
   return (
@@ -10,13 +11,15 @@ const ProductList = () => {
         <p className="pl-desc">
           Please take a look and open them:
         </p>
+
       </div>
 
       <a href="https://angelmond.github.io/Crypto-Check/?selectCrypto=+" class="material-icons">link</a>
       <a href="https://github.com/AngelMond/Crypto-Check" class="material-icons"> assessment</a>
-      <img src="./portafolioPhoto/CryptoCheck.jpg" class="img-responsive" style="width:100%" height="200" alt="Image">
-
+      
+      
       <div className="pl-list">
+
         {products.map((item) => (
           <Product key={item.id} img={item.img} link={item.link} />
         ))}

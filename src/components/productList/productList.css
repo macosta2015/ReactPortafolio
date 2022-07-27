@@ -26,9 +26,9 @@
   justify-content: space-between;
 }
 
-.photo1 {
+/* .photo1 {
   background-image: url(../portafolioPhoto/CryptoCheck.jpg);
-}
+} */
 
 @media screen and (max-width: 480px) {
   .pl {

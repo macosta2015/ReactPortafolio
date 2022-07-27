@@ -26,10 +26,15 @@ const About = () => {
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Alma Mater: </h4>
+            <h4 className="a-award-title">FLORIDA INSTITUTE OF TECHNOLOGY</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              At FloridaTech I got my bacherlor's degree as a Mechanical Engineer 
+              and a minor in CS. In the school I was able to get handson experience
+              with engineer. 
+              <br></br>
+              <br></br>
+              As we were located in the Space coast, we were able to see the rocket launches from campus. 
             </p>
           </div>
         </div>

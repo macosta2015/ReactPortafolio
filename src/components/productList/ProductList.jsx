@@ -1,7 +1,7 @@
 import "./productList.css";
 import Product from "../product/Product";
 import { products } from "../../data";
-import photo1 from "./portafolioPhoto/CryptoCheck.jpg";
+import photo1 from "../portafolioPhoto/CryptoCheck.jpg";
 
 const ProductList = () => {
   return (
@@ -13,6 +13,8 @@ const ProductList = () => {
         </p>
 
       </div>
+
+      <img src={photo1} alt="photo1" />;
 
       <a href="https://angelmond.github.io/Crypto-Check/?selectCrypto=+" class="material-icons">link</a>
       <a href="https://github.com/AngelMond/Crypto-Check" class="material-icons"> assessment</a>

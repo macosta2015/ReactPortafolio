@@ -1,6 +1,6 @@
 import "./about.css";
 import Award from "../../img/FloridaTechPanther.png";
-import SpaceX from "../../img/FloridaTechPanther.png";
+import SpaceX from "../../img/SpaceX2.png";
 
 
 const About = () => {

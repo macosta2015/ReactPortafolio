@@ -2,12 +2,12 @@ export const products = [
   {
     id: 1,
     img: "https://upload.wikimedia.org/wikipedia/en/7/7f/Florida_Institute_of_Technology_%28seal%29.svg",
-    link: "https://www.linkedin.com/feed/",
+    link: "https://angelmond.github.io/Crypto-Check/?selectCrypto=+",
   },
   {
     id: 2,
     img: "../components/portafolioPhoto/CryptoCheck.jpg",
-    link: "https://www.linkedin.com/feed/",
+    link: "https://macosta2015.github.io/FullStackHW6/",
   },
   {
     id: 3,
@@ -16,12 +16,12 @@ export const products = [
   },
   {
     id: 4,
-    img: "",
+    img: "https://macosta2015.github.io/TEST-REPOSITORY-FOR-WEB/",
     link: "http://lama.dev",
   },
   {
     id: 5,
-    img: "",
+    img: "https://pin-it-app-project.herokuapp.com/",
     link: "http://lama.dev",
   },
   {

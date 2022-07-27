@@ -1,18 +1,18 @@
 export const products = [
   {
     id: 1,
-    img: "./components/portafolioPhoto/CryptoCheck.jpg",
-    link: "http://lama.dev",
+    img: "https://upload.wikimedia.org/wikipedia/en/7/7f/Florida_Institute_of_Technology_%28seal%29.svg",
+    link: "https://www.linkedin.com/feed/",
   },
   {
     id: 2,
-    img: "",
-    link: "http://lama.dev",
+    img: "../components/portafolioPhoto/CryptoCheck.jpg",
+    link: "https://www.linkedin.com/feed/",
   },
   {
     id: 3,
-    img: "",
-    link: "http://lama.dev",
+    img: "components/portafolioPhoto/CryptoCheck.jpg",
+    link: "https://www.linkedin.com/feed/",
   },
   {
     id: 4,

@@ -17,17 +17,17 @@ export const products = [
   {
     id: 4,
     img: "https://macosta2015.github.io/TEST-REPOSITORY-FOR-WEB/",
-    link: "http://lama.dev",
+    link: "https://macosta2015.github.io/TEST-REPOSITORY-FOR-WEB/",
   },
   {
     id: 5,
     img: "https://pin-it-app-project.herokuapp.com/",
-    link: "http://lama.dev",
+    link: "https://pin-it-app-project.herokuapp.com/",
   },
   {
     id: 6,
-    img: "",
-    link: "http://lama.dev",
+    img: "https://gist.github.com/macosta2015/e2a85000e1bc381becb0a5765ecb51bc",
+    link: "https://gist.github.com/macosta2015/e2a85000e1bc381becb0a5765ecb51bc",
   },
   {
     id: 7,

@@ -29,4 +29,9 @@ export const products = [
     img: "",
     link: "http://lama.dev",
   },
+  {
+    id: 7,
+    img: "",
+    link: "http://lama.dev",
+  },
 ];

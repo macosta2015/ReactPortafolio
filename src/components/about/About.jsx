@@ -18,7 +18,7 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">Some highlits</h1>
+        <h1 className="a-title">Some highlights</h1>
         <p className="a-sub">
           The best way to learn something is by doing it.
         </p>

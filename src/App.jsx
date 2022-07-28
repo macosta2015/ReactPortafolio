@@ -8,7 +8,10 @@ import { ThemeContext } from "./context";
 //THE FOLLOWING IS FOR THE NAVIGATION BAR
 // import Navbar from "./components/navbar/Navbar";
 import Navbar from "./Navbar"
+import Home from "./components/Home"
 import "./styles.css"
+import ReactDOM from 'react-dom';
+import { useRoutes } from "react-router-dom"
 
 
 
@@ -22,12 +25,18 @@ const App = () => {
         color: darkMode && "white",
       }}
     >
-
+      
       <Navbar />
+      {/* <div className="Container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+        </Routes>
+      </div> */}
       <Intro />
       <ProductList />
-      <Contact />
       <About />
+      <Contact />
+
 
     </div>
   );

@@ -80,6 +80,28 @@ button {
   cursor: pointer;
 }
 
+
+.fa-twitter {
+  background: #2e2c2f;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #2e2c2f;
+  color: white;
+}
+
+.fa-youtube {
+  background: #2e2c2f;
+  color: white;
+}
+
+.fa-github {
+  background: #2e2c2f;
+  color: white;
+}
+
+
 @media screen and (max-width: 480px) {
   .c-wrapper {
     flex-direction: column;
@@ -116,3 +138,5 @@ button {
     margin-top: 10px;
   }
 }
+
+

@@ -33,7 +33,7 @@ const Intro = () => {
           className="i-scroll"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <g id="scroll">
+          {/* <g id="scroll">
             <path
               id="Vector"
               d="M40.5 15L34.5 9L28.5 15"
@@ -78,7 +78,7 @@ const Intro = () => {
                 stroke-linejoin="round"
               />
             </g>
-          </g>
+          </g> */}
         </svg>
       </div>
       <div className="i-right">

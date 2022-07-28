@@ -29,9 +29,9 @@ export const products = [
     img: "https://raw.githubusercontent.com/macosta2015/UpdatedPortafolio/main/images/Regextutorial.jpg",
     link: "https://gist.github.com/macosta2015/e2a85000e1bc381becb0a5765ecb51bc",
   },
-  {
-    id: 7,
-    img: "",
-    link: "http://lama.dev",
-  },
+  // {
+  //   id: 7,
+  //   img: "",
+  //   link: "http://lama.dev",
+  // },
 ];

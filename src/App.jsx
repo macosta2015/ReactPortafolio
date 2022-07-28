@@ -17,11 +17,12 @@ const App = () => {
         color: darkMode && "white",
       }}
     >
+
+      <Navbar />
       <Intro />
       <ProductList />
       <Contact />
       <About />
-      <Navbar />
 
     </div>
   );

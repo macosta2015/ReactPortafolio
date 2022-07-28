@@ -3,6 +3,7 @@ import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
 import Intro from "./components/intro/Intro";
 import ProductList from "./components/productList/ProductList";
+import Navbar from "./components/navbar/Navbar";
 import { ThemeContext } from "./context";
 
 
@@ -20,6 +21,8 @@ const App = () => {
       <ProductList />
       <Contact />
       <About />
+      <Navbar />
+
     </div>
   );
 };

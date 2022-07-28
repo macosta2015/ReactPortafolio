@@ -3,8 +3,13 @@ import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
 import Intro from "./components/intro/Intro";
 import ProductList from "./components/productList/ProductList";
-import Navbar from "./components/navbar/Navbar";
 import { ThemeContext } from "./context";
+
+//THE FOLLOWING IS FOR THE NAVIGATION BAR
+// import Navbar from "./components/navbar/Navbar";
+import Navbar from "./Navbar"
+import "./styles.css"
+
 
 
 const App = () => {

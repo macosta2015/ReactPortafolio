@@ -39,7 +39,7 @@
 }
 
 .a-award-img {
-  width: 120px;
+  width: 150px;
   height: 120px;
   border-radius: 20px;
 }
@@ -71,6 +71,13 @@
     font-weight: bold;
     color: #555;
     margin-bottom: 10px;
+}
+
+.material-icons {
+  position: relative;
+  background: #f9f7f9;
+  color: rgb(15, 10, 10);
+  font-weight: 10000;
 }
 
 @media screen and (max-width:480px) {

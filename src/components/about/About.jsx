@@ -3,6 +3,7 @@ import Award from "../../img/FloridaTechPanther.png";
 import SpaceX from "../../img/SpaceX2.png";
 
 
+
 const About = () => {
   return (
     <div className="a">
@@ -18,7 +19,7 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">Some highlights</h1>
+        <h1 className="a-title">RESUME</h1>
         <p className="a-sub">
           The best way to learn something is by doing it.
         </p>
@@ -26,6 +27,13 @@ const About = () => {
           I currently work as a process engineer in Miami, Fl. After work I 3D print a lot and 
           code. The biggest world problems are able to be solved by engineering
         </p>
+        
+        <div> 
+          <br></br>
+          <p>Click below for my resume</p>   
+          <a href="https://drive.google.com/file/d/15hepHCvVzUCOb4y8ia93A7rGk-QsjfnF/view" class="material-icons">work</a>
+        </div>
+        
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">

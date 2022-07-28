@@ -6,13 +6,13 @@ export default function Navbar() {
         </a>
       <ul>
         <li className="active">
-          <a href="/pricing">Projects:</a>
+          <a href="/projects">Projects:</a>
           </li>
           <li>
           <a href="/about">Resume</a>
           </li>
           <li>
-          <a href="/about">Contact</a>
+          <a href="/contact">Contact</a>
           </li>
       </ul>
     </nav>

@@ -1,3 +1,6 @@
+import { Anchor } from 'antd';
+const { Link } = Anchor;
+
 export default function Navbar() {
     return (
     <nav className="nav">
@@ -15,6 +18,19 @@ export default function Navbar() {
           <a href="/contact">Contact</a>
           </li>
       </ul>
+
+    <Anchor>
+    
+    
+    <Link href="#Projects" title="Projects" />
+
+    <Link href="#Contact" title="Contact" />
+    
+    <Link href="#Resume" title="Resume" />
+
+    </Anchor>
     </nav>
+
+    
     )
   }

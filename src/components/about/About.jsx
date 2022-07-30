@@ -6,7 +6,7 @@ import SpaceX from "../../img/SpaceX2.png";
 
 const About = () => {
   return (
-    <div className="a">
+    <div id= "Resume" className="a">
       <div className="a-left">
         <div className="a-card bg"></div>
         <div className="a-card">

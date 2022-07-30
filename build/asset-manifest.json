@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactPortafolio/static/css/main.3d26a9b5.chunk.css",
+    "main.js": "/ReactPortafolio/static/js/main.c9175670.chunk.js",
+    "main.js.map": "/ReactPortafolio/static/js/main.c9175670.chunk.js.map",
+    "runtime-main.js": "/ReactPortafolio/static/js/runtime-main.ed09270e.js",
+    "runtime-main.js.map": "/ReactPortafolio/static/js/runtime-main.ed09270e.js.map",
+    "static/js/2.0a01b25f.chunk.js": "/ReactPortafolio/static/js/2.0a01b25f.chunk.js",
+    "static/js/2.0a01b25f.chunk.js.map": "/ReactPortafolio/static/js/2.0a01b25f.chunk.js.map",
+    "index.html": "/ReactPortafolio/index.html",
+    "static/css/main.3d26a9b5.chunk.css.map": "/ReactPortafolio/static/css/main.3d26a9b5.chunk.css.map",
+    "static/js/2.0a01b25f.chunk.js.LICENSE.txt": "/ReactPortafolio/static/js/2.0a01b25f.chunk.js.LICENSE.txt",
+    "static/media/FloridaTechPanther.f30b8366.png": "/ReactPortafolio/static/media/FloridaTechPanther.f30b8366.png",
+    "static/media/MITPhoto.bf2736a8.png": "/ReactPortafolio/static/media/MITPhoto.bf2736a8.png",
+    "static/media/SpaceX2.e47e563a.png": "/ReactPortafolio/static/media/SpaceX2.e47e563a.png",
+    "static/media/address.a01cb8cc.png": "/ReactPortafolio/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/ReactPortafolio/static/media/email.a49e0158.png",
+    "static/media/phone.d90a6d23.png": "/ReactPortafolio/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed09270e.js",
+    "static/js/2.0a01b25f.chunk.js",
+    "static/css/main.3d26a9b5.chunk.css",
+    "static/js/main.c9175670.chunk.js"
+  ]
+}

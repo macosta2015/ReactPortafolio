@@ -7,27 +7,40 @@ export default function Navbar() {
       <a href="/" className="site-titke">
         MARIO ACOSTA'S PORTAFOLIO
         </a>
+      <Anchor>
       <ul>
         <li className="active">
-          <a href="#Projects">Projects:</a>
+          {/* <a href="#Projects">Projects:</a> */}
+          <Link href="#Projects" title="Projects" />
         </li>
         <li>
-          <a href="#Resume">Resume</a>
+          {/* <a href="#Resume">Resume</a> */}
+          <Link href="#Resume" title="Resume" />
         </li>
         <li>
-          <a href="#Contact">Contact</a>
+          {/* <a href="#Contact">Contact</a> */}
+          <Link href="#Contact" title="Contact" />
         </li>
       </ul>
+      </Anchor>
 
-      <ul>
+      {/* <ul>
       <li className="active">
       <Anchor>
-      <Link href="#Projects" title="Projects" />
-      <Link href="#Resume" title="Resume" />
-      <Link href="#Contact" title="Contact" />
+        <a>
+        <Link href="#Projects" title="Projects" />
+        </a>
+
+        <a>
+        <Link href="#Resume" title="Resume" />
+        </a>
+
+        <a>
+        <Link href="#Contact" title="Contact" />
+        </a>
       </Anchor>
       </li>
-      </ul>
+      </ul> */}
 
     </nav>
 

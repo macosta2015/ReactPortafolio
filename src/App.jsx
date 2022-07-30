@@ -1,3 +1,13 @@
+// This project was made by watching several YouTube videos and aritles
+// https://ant.design/components/anchor/#header
+// https://ant.design/docs/react/introduce\
+// https://www.youtube.com/watch?v=7mZ4yguae9Q
+// https://www.youtube.com/watch?v=hQjlM-8C4Ps&feature=youtu.be
+// https://bennettfeely.com/clippy/
+// chrome-extension://fdpohaocaechififmbbbbbknoalclacl/welcome.html
+// https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl/related
+
+
 import { useContext } from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";

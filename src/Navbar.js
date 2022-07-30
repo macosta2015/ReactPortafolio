@@ -9,26 +9,27 @@ export default function Navbar() {
         </a>
       <ul>
         <li className="active">
-          <a href="/projects">Projects:</a>
+          <a href="#Projects">Projects:</a>
           </li>
           <li>
-          <a href="/about">Resume</a>
+          <a href="#Resume">Resume</a>
           </li>
           <li>
-          <a href="/contact">Contact</a>
+          <a href="#Contact">Contact</a>
           </li>
       </ul>
 
-    <Anchor>
-    
-    
-    <Link href="#Projects" title="Projects" />
+      <ul>
+      <li className="active">
+      <Anchor>
+      <Link href="#Projects" title="Projects" />
+      <Link href="#Resume" title="Resume" />
+      <Link href="#Contact" title="Contact" />
+      </Anchor>
+      </li>
 
-    <Link href="#Contact" title="Contact" />
-    
-    <Link href="#Resume" title="Resume" />
+      </ul>
 
-    </Anchor>
     </nav>
 
     

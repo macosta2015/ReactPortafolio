@@ -10,13 +10,13 @@ export default function Navbar() {
       <ul>
         <li className="active">
           <a href="#Projects">Projects:</a>
-          </li>
-          <li>
+        </li>
+        <li>
           <a href="#Resume">Resume</a>
-          </li>
-          <li>
+        </li>
+        <li>
           <a href="#Contact">Contact</a>
-          </li>
+        </li>
       </ul>
 
       <ul>
@@ -27,7 +27,6 @@ export default function Navbar() {
       <Link href="#Contact" title="Contact" />
       </Anchor>
       </li>
-
       </ul>
 
     </nav>

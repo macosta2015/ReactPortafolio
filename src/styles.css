@@ -4,7 +4,6 @@
 
 boyd{
     margin: 0;
-
 }
 
 .nav {
@@ -23,6 +22,8 @@ boyd{
     list-style: none;
     display: flex;
     gap: 1rem;
+    align-items: center;
+    padding: .30 rem;
 }
 
 .nav a {
@@ -34,9 +35,9 @@ boyd{
     padding: .25rem;
 }
 
-.nav li.active{
+/* .nav li.active{
     background-color: #555;
-}
+} */
 
 .nav li:hover{
     background-color: #777;

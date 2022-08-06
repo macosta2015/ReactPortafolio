@@ -39,13 +39,6 @@ const App = () => {
         }}
       > 
         <Navbar />
-          {/* <Switch>
-            <Route path="/">
-              <Home />
-            </Route>
-          </Switch>
-        </Route>
-         */}
         <Intro />
         <ProductList />
         <About />

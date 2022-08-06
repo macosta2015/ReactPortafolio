@@ -24,24 +24,6 @@ export default function Navbar() {
       </ul>
       </Anchor>
 
-      {/* <ul>
-      <li className="active">
-      <Anchor>
-        <a>
-        <Link href="#Projects" title="Projects" />
-        </a>
-
-        <a>
-        <Link href="#Resume" title="Resume" />
-        </a>
-
-        <a>
-        <Link href="#Contact" title="Contact" />
-        </a>
-      </Anchor>
-      </li>
-      </ul> */}
-
     </nav>
 
     
